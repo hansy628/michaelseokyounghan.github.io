@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Michael Seokyoung Han"
-title_separator          : "Ph.D. Candidate"
+title_separator          : "-"
 name                     : &name "Michael Seokyoung Han"
-description              : &description "personal description"
+description              : &description "Ph.D Candidate in University of Louisville"
 url                      : https://hansy628.github.io/mshan_project/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hansy628.github.io/mshan_project/"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Michael Seokyoung Han"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
