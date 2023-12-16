@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/CV_Dec_Han.pdf" width="650" height="800" type='application/pdf'>
+(https://github.com/hansy628/mshan_project/blob/master/files/CV_Dec_Han.pdf)
