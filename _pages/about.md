@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <img src="https://hansy628.github.io/mshan_project/images/github_page_pic.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
+
 I'm a Ph.D. Candidate in Mechanical Engineering at the University of Louisville. Currently, I'm working on a biomimetic robotic system, which is inspired by human finger system to make a simplified motion and sensing mechanism. Previously, I've worked on developing a minimally invasive surgical robot at a startup company spun-off from the University of Texas Health Science Center at Houston, TX. During my master program, I created a novel design of Tensegrity robot, which can morph its shape so that makes locomotion in an exploring mission. 
 
 I have one dog and one cat. I really love watching how nature works. And observing my dog and cat's physical motion and emotional changes is one of them. Since I've been interested in how robots can interact with surroundings so soft robotic and bio-inspired systems have infused life into my researches. 
