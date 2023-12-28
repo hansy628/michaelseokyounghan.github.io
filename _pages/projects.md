@@ -1,6 +1,6 @@
 ---
-layout: single
-title:
+layout: archive
+title: "PROJECTS"
 permalink: /projects/
 author_profile: true
 analytics: true
@@ -10,7 +10,7 @@ analytics: true
 
 The primary focus of my research revolves around the transformation of novel designs or concepts into practical robotic systems, aiming to create a tangible impact in our daily lives. These systems encompass crucial components such as actuators, sensors, and controllers. By harnessing creative designs or models, I strive to advance the performance, manipulability, and human-robot interaction of robots.
 
-Anthropomorphic Robotic Finger Design (2023)
+Anthropomorphic Robotic Finger Design (2023-)
 ======
 
 
