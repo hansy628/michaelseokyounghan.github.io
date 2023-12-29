@@ -19,9 +19,10 @@ Currently working on developing a robotic finger inspired by human finger design
 This system consists of all-polymer materials for main structure and optical fiber tendons for not only transmitting the force but also sensing information of finger motion change. Since optical fiber tendons are able to reflect its deformation according to the tendon force, this finger can detect finger joint angle variation. Based on the neural network technique, how much joint angle changes corresponds to total light intensity of the fiber sensor.  
 
 
-# Biomimetic Soft Actuator (2022)
+# Biomimetic Soft Actuator (2022-)
 <img align="left" src="https://hansy628.github.io/mshan_project/files/lce_concept.jpg" alt="Photo" style="width: 200px; height: 300px; border-radius: 1px"/>
 <img align="left" src="https://hansy628.github.io/mshan_project/files/Sequence 01.gif" alt="Photo" style="width: 250px; height: 350px; border-radius: 1px"/>
+Since the nature organism muscle is actuated by repeating contraction and relaxation, it can make a motion more efficiently than other artificial actuators. The idea of this project comes from this question "Is it possible to make an unit muscle able to generate contraction and relaxation by any type of stimuli?" Liquid Crystal Elastomer(LCE) is one of the probable solutions. While through optical excitation this polymer can be deformed permanently, it can be restored by a certain range of heat source. 
 
 
 # Grasping Control with a Novel Design of Soft Tactile Sensor (2021)
