@@ -10,6 +10,8 @@ analytics: true
 
 The primary focus of my research revolves around the transformation of novel designs or concepts into practical robotic systems, aiming to create a tangible impact in our daily lives. These systems encompass crucial components such as actuators, sensors, and controllers. By harnessing creative designs or models, I strive to advance the performance, manipulability, and human-robot interaction of robots.
 
+
+
 # Anthropomorphic Robotic Finger Design (2023-) :
 
 
@@ -25,6 +27,7 @@ The primary focus of my research revolves around the transformation of novel des
 # Grasping Control with a Novel Design of Soft Tactile Sensor (2021) : 
 
 
+
 # Motion Control of Minimally Invasive Surgical Robot (2016) : 
 <img align="left" src="https://hansy628.github.io/mshan_project/files/misrobot2.JPG" alt="Photo" style="width: 220px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 
@@ -37,6 +40,7 @@ The primary focus of my research revolves around the transformation of novel des
 
 
 # Previous Projects (~2013) : 
+
 
 
 ## A Balancing Bicycle : 
@@ -54,4 +58,5 @@ Using LIDAR sensor, this robot is able to detect obstacles so that avoid to head
 ## An Anti-Collision Device for Automobile Doors : 
 <img align="left" src="https://hansy628.github.io/mshan_project/files/anticollisiondoor.jpg" alt="Photo" style="width: 220px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 This work presents the electromagnetic locking system in an automobile door to prevent unexpected collision while opening.
+
 
