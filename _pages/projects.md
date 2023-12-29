@@ -37,7 +37,7 @@ Locomotion Generation of Tensegrity Robot based on Iterative Learning Control (2
 
 [Locomotion of Three-Bar Tensegrity](https://www.youtube.com/watch?v=3nluj3a4f2s)
 
-<img align="left" src="https://hansy628.github.io/mshan_project/files/tensegrity.JPG" alt="Photo" style="width: 250px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/tensegrity.jpg" alt="Photo" style="width: 250px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 
 Previous Projects (~2013)
 ======
