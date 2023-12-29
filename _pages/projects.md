@@ -15,7 +15,8 @@ The primary focus of my research revolves around the transformation of novel des
 # Anthropomorphic Robotic Finger Design with Optical Fiber Tendon (2023-)
 <img align="left" src="https://hansy628.github.io/mshan_project/files/prototype.jpg" alt="Photo" style="width: 350px; height: 380px; border-radius: 1px"/>
 <img align="left" src="https://hansy628.github.io/mshan_project/files/finger_design1.jpg" alt="Photo" style="width: 380px; height: 320px; border-radius: 1px"/>
-
+Currently working on developing a robotic finger inspired by human finger design. Likewise the human finger, this robotic finger has rigid bone for supporting the structure, flexible tendons for making motion, and sheaths for guiding and protecting.
+This system consists of all-polymer materials for main structure and optical fiber tendons for not only transmitting the force but also sensing information of finger motion change. Since optical fiber tendons are able to reflect its deformation according to the tendon force, this finger can detect finger joint angle variation. Based on the neural network technique, how much joint angle changes corresponds to total light intensity of the fiber sensor.  
 
 
 # Biomimetic Soft Actuator (2022)
@@ -37,7 +38,7 @@ Minimally invasive surgical(MIS) robot is known for the less of post-surgery eff
 
 # Locomotion Generation of Tensegrity Robot based on Iterative Learning Control (2014)
 <img align="left" src="https://hansy628.github.io/mshan_project/files/tensegrity.jpg" alt="Photo" style="width: 220px; border-radius: 1px"/>
-A tensegrity system is a highly flexible and balancing structure, which is made up of a rigid body and a tensile material. In this research, it is developed to explore an uncertain, rugged area by making its locomotion. Each actuator is connected to each side of tensegrity, which is the elastic spring component in this robot so that leads to deformation of the whole structure. However, in order to sustain its stability, it is necessary to keep a certain tendon force between on each vertext. Therefore, in this project, the dynamic analysis and system stability are presented to implement the robotic system. On top of that, the iterative learning control algorithm is applied for creating an improved performance of the robot. You can check "Locomotion of Three-Bar Tensegrity" video [here](https://www.youtube.com/watch?v=3nluj3a4f2s). 
+A tensegrity system is a highly flexible and balancing structure, which is made up of a rigid body and a tensile material. In this research, it is developed to explore an uncertain, rugged area by making its locomotion. Each actuator is connected to each side of tensegrity, which is the elastic spring component in this robot so that leads to deformation of the whole structure. However, in order to sustain its stability, it is necessary to keep a certain tendon force between on each vertext. Therefore, in this project, the dynamic analysis and system stability are presented to implement the robotic system. On top of that, the iterative learning control algorithm is applied for creating an improved performance of the robot. You can check "Locomotion of Three-Bar Tensegrity" video [here](https://www.youtube.com/watch?v=3nluj3a4f2s) and publication [here](https://ieeexplore.ieee.org/abstract/document/7064594). 
 
 
 # Previous Projects (~2013)
