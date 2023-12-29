@@ -36,3 +36,16 @@ Locomotion Generation of Tensegrity Robot based on Iterative Learning Control (2
 
 Previous Projects
 ======
+A Balancing Bicycle
+------
+<img align="left" src="https://hansy628.github.io/mshan_project/files/balancingbicycle.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
+
+An Autonomous Vehicle
+------
+<img align="left" src="https://hansy628.github.io/mshan_project/files/autonomousvehicle.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
+
+An Anti-Collision Device for Automobile Doors
+------
+<img align="left" src="https://hansy628.github.io/mshan_project/files/anticollisiondoor.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
+
+
