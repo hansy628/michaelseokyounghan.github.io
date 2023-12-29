@@ -24,15 +24,15 @@ The primary focus of my research revolves around the transformation of novel des
 
 
 # Grasping Control with a Novel Design of Soft Tactile Sensor (2021)
-
 <img align="left" src="https://hansy628.github.io/mshan_project/files/softsensor.png" alt="Photo" style="width: 220px; height: 220px; border-radius: 1px"/>
-<img align="left" src="https://hansy628.github.io/mshan_project/files/mrac_vid_1030_1.gif" alt="Photo" style="width: 250px; height: 300px; border-radius: 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/mrac_vid_1030_1.gif" alt="Photo" style="width: 350px; height: 300px; border-radius: 1px"/>
 
 
 
 # Motion Control of Minimally Invasive Surgical Robot (2016)
 <img align="left" src="https://hansy628.github.io/mshan_project/files/misrobot.jpg" alt="Photo" style="width: 350px; border-radius: 1px"/>
-
+<img align="left" src="https://hansy628.github.io/mshan_project/files/instrument_test.jpg" alt="Photo" style="width: 250px; height: 250px; border-radius: 1px"/>
+Minimally invasive surgical(MIS) robot is known for the less of post-surgery effect since it can approach only small part of the body to incise or just use the natural orifice as well. In this project, my team and I worked on making precise motion of the surgical robot so that it can elevate the surgery performance. Theoretically, through kinematic and dynamic analysis of the tendon-driven robot, plausibility is presented [here](https://www.mdpi.com/2076-3417/9/19/4114). Technically, reliability of the system is also shown by comparing calculation results and actual using the position and orentation sensors in the real 3D space. 
 
 
 # Locomotion Generation of Tensegrity Robot based on Iterative Learning Control (2014)
