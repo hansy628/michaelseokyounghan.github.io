@@ -29,13 +29,13 @@ The primary focus of my research revolves around the transformation of novel des
 
 
 # Motion Control of Minimally Invasive Surgical Robot (2016)
-<img align="left" src="https://hansy628.github.io/mshan_project/files/misrobot2.JPG" alt="Photo" style="width: 220px; border-radius: 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/misrobot2.JPG" alt="Photo" style="width: 250px; border-radius: 1px"/>
 
 
 
 # Locomotion Generation of Tensegrity Robot based on Iterative Learning Control (2014)
 [Locomotion of Three-Bar Tensegrity](https://www.youtube.com/watch?v=3nluj3a4f2s)
-<img align="left" src="https://hansy628.github.io/mshan_project/files/tensegrity.jpg" alt="Photo" style="width: 250px; border-radius: 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/tensegrity.jpg" alt="Photo" style="width: 220px; border-radius: 1px"/>
 
 
 
