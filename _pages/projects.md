@@ -29,9 +29,9 @@ Working on a new design, which is able to convey the heat source uniformly and b
 
 
 # Grasping Control with a Novel Design of Soft Tactile Sensor (2021)
-<img align="left" src="https://hansy628.github.io/mshan_project/files/softsensor.png" alt="Photo" style="width: 220px; height: 220px; border-radius: 1px"/>
-<img align="left" src="https://hansy628.github.io/mshan_project/files/mrac_vid_1030_1.gif" alt="Photo" style="width: 300px; height: 200px; border-radius: 1px"/>
-In this project, skin-inspired soft tactile sensor is developed to measure normal forces and assess the stick-slip behavior of objects contacting the silicone surface. 
+<img align="left" src="https://hansy628.github.io/mshan_project/files/softsensor.png" alt="Photo" style="width: 180px; height: 180px; border-radius: 1px"/>
+<!--<img align="left" src="https://hansy628.github.io/mshan_project/files/mrac_vid_1030_1.gif" alt="Photo" style="width: 300px; height: 200px; border-radius: 1px"/>-->
+In this project, skin-inspired soft tactile sensor is developed to measure normal forces and assess the stick-slip behavior of objects contacting the silicone surface. The video is available [here](https://www.youtube.com/watch?v=tjtqleIg3zU). 
 This sensor is not only easy to fabricate but also straightforward to interpret the sensor signals according to the force.[here](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200406) 
 On top of that, through the adaptive control technique, the sensor application is presented using the off-the-shelf gripper product. 
 While object slipping occurs, the sensor provides lateral force information so that it is able to control how much should be gripped by the robotic grasper.[here](https://ieeexplore.ieee.org/abstract/document/10122010) 
