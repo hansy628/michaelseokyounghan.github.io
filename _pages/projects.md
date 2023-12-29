@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "PROJECTS"
 permalink: /projects/
 author_profile: true
@@ -45,7 +45,9 @@ The primary focus of my research revolves around the transformation of novel des
 
 ## A Balancing Bicycle : 
 <img align="left" src="https://hansy628.github.io/mshan_project/files/balancingbicycle.jpg" alt="Photo" style="width: 220px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
-Based on the inverted-pendulum control, this bicycle can maintain its balance. On the back of the bicycle, there is a flywheel that makes inertia momentum. Using this flywheel data and the gyro data of the bicycle body, we can control the attitude of the bicycle theoretically through the simulation.
+Based on the inverted-pendulum control, this bicycle can maintain its balance. 
+On the back of the bicycle, there is a flywheel that makes inertia momentum. 
+Using this flywheel data and the gyro data of the bicycle body, we can control the attitude of the bicycle theoretically through the simulation.
 
 
 
