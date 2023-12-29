@@ -37,7 +37,7 @@ On top of that, through the adaptive control technique, the sensor application i
 While object slipping occurs, the sensor provides lateral force information so that it is able to control how much should be gripped by the robotic grasper.[here](https://ieeexplore.ieee.org/abstract/document/10122010) 
 
 
-# Motion Control of Minimally Invasive Surgical Robot (2016)
+# Motion Control of Minimally Invasive Surgical Robot (2019)
 <img align="left" src="https://hansy628.github.io/mshan_project/files/misrobot.jpg" alt="Photo" style="width: 350px; border-radius: 1px"/>
 <img align="left" src="https://hansy628.github.io/mshan_project/files/instrument_test.jpg" alt="Photo" style="width: 250px; height: 250px; border-radius: 1px"/>
 Minimally invasive surgical(MIS) robot is known for the less of post-surgery effect since it can approach only small part of the body to incise or just use the natural orifice as well. 
