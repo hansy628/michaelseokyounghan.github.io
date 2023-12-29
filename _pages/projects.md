@@ -13,8 +13,8 @@ The primary focus of my research revolves around the transformation of novel des
 
 
 # Anthropomorphic Robotic Finger Design with Optical Fiber Tendon (2023-)
-<img align="left" src="https://hansy628.github.io/mshan_project/files/prototype.jpg" alt="Photo" style="width: 350px; height: 380px; border-radius: 1px"/>
-<img align="left" src="https://hansy628.github.io/mshan_project/files/finger_design1.jpg" alt="Photo" style="width: 380px; height: 320px; border-radius: 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/prototype.jpg" alt="Photo" style="width: 300px; height: 320px; border-radius: 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/finger_design1.jpg" alt="Photo" style="width: 360px; height: 320px; border-radius: 1px"/>
 Currently working on developing a robotic finger inspired by human finger design. Likewise the human finger, this robotic finger has rigid bone for supporting the structure, flexible tendons for making motion, and sheaths for guiding and protecting.
 This system consists of all-polymer materials for main structure and optical fiber tendons for not only transmitting the force but also sensing information of finger motion change. Since optical fiber tendons are able to reflect its deformation according to the tendon force, this finger can detect finger joint angle variation. Based on the neural network technique, how much joint angle changes corresponds to total light intensity of the fiber sensor.  
 
