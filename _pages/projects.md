@@ -12,21 +12,21 @@ The primary focus of my research revolves around the transformation of novel des
 
 
 
-# Anthropomorphic Robotic Finger Design (2023-)
+# Anthropomorphic Robotic Finger Design with Optical Fiber Tendon (2023-)
 <img align="left" src="https://hansy628.github.io/mshan_project/files/prototype.jpg" alt="Photo" style="width: 350px; height: 380px; border-radius: 1px"/>
 <img align="left" src="https://hansy628.github.io/mshan_project/files/finger_design1.jpg" alt="Photo" style="width: 380px; height: 320px; border-radius: 1px"/>
 
 
 
 # Biomimetic Soft Actuator (2022)
-<img align="left" src="https://hansy628.github.io/mshan_project/files/lce_concept.jpg" alt="Photo" style="width: 250px; height: 350px; border-radius: 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/lce_concept.jpg" alt="Photo" style="width: 200px; height: 300px; border-radius: 1px"/>
 <img align="left" src="https://hansy628.github.io/mshan_project/files/Sequence 01.gif" alt="Photo" style="width: 250px; height: 350px; border-radius: 1px"/>
 
 
 # Grasping Control with a Novel Design of Soft Tactile Sensor (2021)
 
 <img align="left" src="https://hansy628.github.io/mshan_project/files/softsensor.png" alt="Photo" style="width: 220px; height: 220px; border-radius: 1px"/>
-<img align="left" src="https://hansy628.github.io/mshan_project/files/mrac_vid_1030_1.gif" alt="Photo" style="width: 350px; height: 380px; border-radius: 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/mrac_vid_1030_1.gif" alt="Photo" style="width: 250px; height: 300px; border-radius: 1px"/>
 
 
 
