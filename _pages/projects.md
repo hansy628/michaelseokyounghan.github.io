@@ -42,14 +42,14 @@ The primary focus of my research revolves around the transformation of novel des
 # Previous Projects (~2013)
 
 ## A Balancing Bicycle
-<img align="left" src="https://hansy628.github.io/mshan_project/files/balancingbicycle.jpg" alt="Photo" style="width: 220px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/balancingbicycle.jpg" alt="Photo" style="width: 200px; height: 200px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 Based on the inverted-pendulum control, this bicycle can maintain its balance. 
 On the back of the bicycle, there is a flywheel that makes inertia momentum. 
 Using this flywheel data and the gyro data of the bicycle body, we can control the attitude of the bicycle theoretically through the simulation.
 ## An Autonomous Vehicle
-<img align="left" src="https://hansy628.github.io/mshan_project/files/autonomousvehicle.jpg" alt="Photo" style="width: 220px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/autonomousvehicle.jpg" alt="Photo" style="width: 200px; height: 200px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 Using LIDAR sensor, this robot is able to detect obstacles so that avoid to head toward a fixed waypoint with a minimum distance while generating a local map.
 ## An Anti-Collision Device for Automobile Doors
-<img align="left" src="https://hansy628.github.io/mshan_project/files/anticollisiondoor.jpg" alt="Photo" style="width: 220px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<img align="left" src="https://hansy628.github.io/mshan_project/files/anticollisiondoor.jpg" alt="Photo" style="width: 200px; height: 200px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 This work presents the electromagnetic locking system in an automobile door to prevent unexpected collision while opening.
 
