@@ -12,4 +12,4 @@ redirect_from:
 
 If file does not load below, click [here](https://hansy628.github.io/mshan_project/files/CV_2024_Feb_Han.pdf) to download.
 
-<embed src="https://hansy628.github.io/mshan_project/files/CV_2024Jan_Han.pdf" width="650" height="800" type='application/pdf'>
+<embed src="https://hansy628.github.io/mshan_project/files/CV_2024_Feb_Han.pdf" width="650" height="800" type='application/pdf'>
